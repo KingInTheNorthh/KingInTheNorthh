@@ -1,24 +1,234 @@
-# 💫 About Me:
-No flashy projects, just a ton of systems level, backend projects.
+```text
+   ____  _  ___   ____      ____ _    ____ _    _ _____ ____
+  / ___|| |/ / \ / /\ \    / /  / \  | |  | |  | | ____|  _ \
+  \___ \| ' / \ V /  \ \/\/ / / _ \ | |  | |_/| |  _| | |_) |
+   ___) | . \  | |    \  /\  / / ___ \| |__|  _  | |___|  _ <
+  |____/|_|\_\ |_|     \/  \/ /_/   \_\____|_| |_|_____|_| \_\
 
+       [ node: skywalker ]  ::  uname -a  →  not your average userland
+```
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lspeterson@st.knust.edu.gh) 
+```console
+$ ssh skywalker@unknown-host
+The authenticity of host 'unknown-host' can't be established.
+Are you sure you want to continue connecting? [yes/no] yes
+Warning: Permanently added 'unknown-host' to the list of known hosts.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KingInTheNorthh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KingInTheNorthh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KingInTheNorthh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KingInTheNorthh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Last login: from a rabbit hole, three commits deep.
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=KingInTheNorthh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ┌─[ BOOT SEQUENCE ]─────────────────────────────────────────┐
+
+```console
+[    0.000000] kernel: Linux version 6.x (skywalker@thinkpad)
+[    0.004211] OK   ] Mounting /curiosity ......................... done
+[    0.009870] OK   ] Loading systems-level intuition ............. done
+[    0.013004] OK   ] Probing memory for undefined behavior ....... 1 found
+[    0.01855x] WARN ] Sleep daemon failed to start (low priority)
+[    0.021118] OK   ] Initializing threat-intelligence modules ..... done
+[    0.027640] OK   ] Attaching debugger to reality ............... done
+[    0.031900] OK   ] Disabling abstraction layer (read-only) ...... done
+[    0.044012] OK   ] Reached target: understand-how-it-works.target
+[    0.050000] login: starting user session for 'skywalker'
+```
+
+---
+
+## ┌─[ WHOAMI ]────────────────────────────────────────────────┐
+
+```console
+$ whoami --verbose
+
+skywalker
+├── systems programmer            # lives a few syscalls below comfort
+├── low-level developer           # speaks C, dreams in registers
+├── linux operator                # tiling wm, no mouse, no regrets
+├── threat-intel apprentice       # reads the logs nobody else opens
+├── offensive-security explorer   # asks "what happens if I send THIS?"
+├── reverse engineer (in training)# objdump is a bedtime story
+└── perpetual learner             # exit code 0 is suspicious
+
+$ groups skywalker
+tinkerers builders documentation-readers rabbit-hole-divers
+```
+
+---
+
+## ┌─[ CURRENT INVESTIGATIONS ]────────────────────────────────┐
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  OPERATION_KERNEL                              STATUS: ACTIVE  ║
+╠══════════════════════════════════════════════════════════════╣
+║  > Linux internals & the syscall boundary                     ║
+║  > Virtual memory, paging, and the page-fault handler         ║
+║  > Process scheduling and the cost of a context switch        ║
+╚══════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════╗
+║  OPERATION_REDLINE                           STATUS: ONGOING   ║
+╠══════════════════════════════════════════════════════════════╣
+║  > Malware behavior & static/dynamic analysis                 ║
+║  > Network forensics and packet archaeology                   ║
+║  > Threat intelligence: from IOC to actor profile             ║
+╚══════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════╗
+║  OPERATION_TOOLSMITH                       STATUS: RECURRING   ║
+╠══════════════════════════════════════════════════════════════╣
+║  > Building strange CLI tools that probably shouldn't exist   ║
+║  > Compilers, parsers, and the dark art of error messages     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## ┌─[ TOOLCHAIN ]─────────────────────────────────────────────┐
+
+```console
+$ tree /toolchain
+
+/toolchain
+├── languages
+│   ├── C            # the lingua franca of the machine
+│   ├── C++          # for when C needs more rope
+│   ├── Rust         # the borrow checker is my therapist
+│   ├── Go           # when concurrency must just work
+│   ├── Python       # glue, scripting, and quick autopsies
+│   └── Bash         # everything is a pipe if you're brave enough
+│
+├── operating_systems
+│   ├── Linux        # primary habitat
+│   ├── Fedora       # daily driver
+│   └── /dev/null    # where bad ideas are mounted
+│
+├── security
+│   ├── threat-intelligence
+│   ├── digital-forensics
+│   ├── reverse-engineering
+│   ├── malware-analysis
+│   └── network-analysis
+│
+├── instruments
+│   ├── gdb · objdump · strace · ltrace
+│   ├── Wireshark · tcpdump · nmap
+│   ├── Ghidra · radare2
+│   └── git · make · valgrind
+│
+└── infrastructure
+    ├── Docker · nginx · Postgres
+    └── a thinkpad that has seen things
+```
+
+---
+
+## ┌─[ SYSTEM STATUS ]─────────────────────────────────────────┐
+
+```text
+$ top -u skywalker
+
+  PID  PROCESS                LOAD                        STATE
+─────────────────────────────────────────────────────────────────────
+ 0001  curiosity              [#########################-]  99%   RUN
+ 0002  side_projects          [######################----]  87%   RUN
+ 0003  threat_intel_queue     [growing....................]  ++    RUN
+ 0004  documentation_written  [######--------------------]  23%   IDLE
+ 0005  caffeine_levels        [############################] 100%  CRIT
+ 0006  sleep                  ────────────────────────────  SEGFAULT
+─────────────────────────────────────────────────────────────────────
+
+mem:  RAM allocated mostly to "wait, how does THAT actually work?"
+swap: heavy — too many browser tabs of CVE writeups
+```
+
+---
+
+## ┌─[ ACTIVE MISSIONS ]───────────────────────────────────────┐
+
+```console
+$ ls -la /missions
+
+drwxr-xr-x  error-translator/
+    └── turns cryptic compiler & linker errors into plain human language
+        target: every dev who has ever screamed at a template error
+
+drwxr-xr-x  voiceup/
+    └── citizen governance & reporting platform
+        target: give people a channel that actually reaches the right desk
+
+drwxr-xr-x  experimental-labs/
+    └── systems + security research, half-finished tools, sharp edges
+        target: learn by breaking, document by surviving
+
+-rw-------  .classified/
+    └── you do not have read permission for this directory
+```
+
+---
+
+## ┌─[ NETWORK MAP ]───────────────────────────────────────────┐
+
+```text
+        [ user-space ]
+             │
+   ┌─────────┴─────────┐
+   │   libc / syscalls │   ← where the questions start
+   └─────────┬─────────┘
+             │
+     ╔═══════▼═══════╗
+     ║  KERNEL LAND  ║  ── scheduler ── vmem ── netstack ── fs
+     ╚═══════╤═══════╝
+             │
+   ┌─────────┴─────────┐
+   │     hardware      │   ← the floor. there is no abstraction below.
+   └───────────────────┘
+
+  reach me:  mailto → asknartey@st.knust.edu.gh
+  protocol:  prefers plaintext, patience, and a good writeup
+```
+
+---
+
+## ┌─[ PHILOSOPHY ]────────────────────────────────────────────┐
+
+```text
+# ~/.config/skywalker/principles.conf
+
+understand_before_using   = true    # a black box is just a future bug
+automate_the_boring       = true    # if I did it twice, I'll script it
+read_the_docs             = always  # the man page knew all along
+learn_from_failure        = true    # core dumps are honest feedback
+stay_curious              = 0xFFFF   # max value, no overflow check
+ship_imperfect            = true    # done teaches more than perfect
+```
+
+---
+
+## ┌─[ TELEMETRY ]─────────────────────────────────────────────┐
+
+```console
+$ git log --oneline --author=skywalker | wc -l
+```
+
+![status](https://github-readme-stats.vercel.app/api?username=KingInTheNorthh&show_icons=true&hide_border=true&theme=dark&include_all_commits=false&count_private=true&hide_title=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingInTheNorthh&layout=compact&hide_border=true&theme=dark&langs_count=8)
+
+---
+
+## ┌─[ FINAL TRANSMISSION ]────────────────────────────────────┐
+
+```console
+$ logout
+
+Connection to skywalker closed.
+
+  ──────────────────────────────────────────────────
+   If you've read this far, there's a rabbit hole
+   somewhere nearby. Bring a debugger.
+  ──────────────────────────────────────────────────
+
+[ session ended ]  ::  exit code 0  ::  (suspiciously clean)
+```
