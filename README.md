@@ -11,7 +11,7 @@
                     |  $$$$$$/                                                          
                      \______/                                                           
 
-       [ node: skywalker ]  ::  i like understanding how things work underneath
+       [ node: skywalker ]  ::  coffee and semi-colons
 ```
 
 ```console
